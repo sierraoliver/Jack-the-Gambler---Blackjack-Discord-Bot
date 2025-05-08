@@ -7,8 +7,8 @@ from PIL import Image
 import time
 from dotenv import load_dotenv
 
-data_folder = Path("/Users/sierraoliver/Desktop/personal/discord bot/Playing Cards/card list/")
-card_back = "/Users/sierraoliver/Desktop/personal/discord bot/Playing Cards/card list/card back.png"
+data_folder = Path("/Users/sierraoliver/Desktop/personal/discord bot/Jack-the-Gambler---Blackjack-Discord-Bot/Playing Cards/card list/")
+card_back = "/Users/sierraoliver/Desktop/personal/discord bot/Jack-the-Gambler---Blackjack-Discord-Bot/Playing Cards/card list/card back.png"
 
 def searchCard(folder, card):
     fileName = card.card.lower() + " " + card.suit.lower() + "s.png"
