@@ -12,3 +12,9 @@ After their turn, it will display the outcome: either a loss, push (tie) or a wi
 
 To play another round, simply type "/play blackjack" again.
 
+
+<h2>Photos</h2>
+<img width="644" alt="Screen Shot 2025-05-16 at 9 39 53 PM" src="https://github.com/user-attachments/assets/0fcab8a9-5eaf-48be-84f5-86fae2ae218b" />
+
+
+<img width="643" alt="Screen Shot 2025-05-16 at 9 41 16 PM" src="https://github.com/user-attachments/assets/92d092af-543f-4067-baf3-43632dd27084" />
